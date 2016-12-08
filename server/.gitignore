@@ -1,0 +1,13 @@
+# Ignores node dependencies (e.g. webpack).
+node_modules
+
+# Ignores your built application.
+.DS_Store
+
+/src/database.json
+
+# Ignores .gitignore
+.gitignore
+
+# Ignores npm-debug.log
+npm-debug.log*
